@@ -11,6 +11,6 @@ numero = int(input("Digite o número: "))
 
 # Verificação e saída
 if tem_adjacentes_iguais(numero): #Teste github
-    print("Sim") #Teste github 2
+    print("Sim") #Teste github 3
 else:
     print("Não")
