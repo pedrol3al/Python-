@@ -10,7 +10,7 @@ n = int(input("Digite a quantidade de números: "))
 numero = int(input("Digite o número: "))
 
 # Verificação e saída
-if tem_adjacentes_iguais(numero):
+if tem_adjacentes_iguais(numero): #Teste github
     print("Sim")
 else:
     print("Não")
